@@ -1,4 +1,4 @@
-# odin-recipes
+# odin_recipes
 First HTML Project from The Odin Project
 This project is the HTML Recipes project. 
 
